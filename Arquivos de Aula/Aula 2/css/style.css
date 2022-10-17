@@ -1,0 +1,14 @@
+p{
+    color: chocolate;
+    margin-top: 3px;
+}
+
+h1{
+    color: cadetblue;
+}
+
+.p_estilizado{
+    color: deeppink;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+}
