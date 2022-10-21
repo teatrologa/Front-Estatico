@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Um Pouco de Formulários</title>
+</head>
+
+<body>
+    <form name="Fomrulário 01">
+        <div>
+            Selecione o produto:
+            <select name="produtos">
+                <!-- ESSE É UM EXEMPLO DE SELECT, SABE?! AQUELAS CAIXAS DE OPÇÕES -->
+                <option>Selecione...</option>
+                <option value="Caneta">Caneta</option>
+                <option value="Caderno">Caderno</option>
+                <option value="Lapis">Lapis</option>
+            </select>
+        </div>
+
+        <div>
+            <input name="reset" type="reset" value="Limpar" onclick="function()" />
+            <input name="submit" type="submit" value="Enviar" />
+        </div>
+    </form>
+    <br>
+    <form name="Formulario 02">
+
+        <label for="">Nome completo:</label>
+        <input type="text" name="Nome" placeholder="Seu nome ..." required> 
+        
+        <br>
+
+        <label>CPF:</label> 
+        <input type="text" name="CPF" required> 
+        
+        <br>
+
+        <label>Email</label>
+        <input type="email" name="email" required>
+
+        <br>
+
+        <input type="submit" value="Cadastrar">
+        <input type="reset" value="Limpar">
+
+    </form>
+</body>
+
+</html>

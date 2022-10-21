@@ -1,0 +1,21 @@
+.tabela-produto {
+    text-align: center;
+    color: brown;
+}
+
+.tabela-produto1{
+    text-align: center;
+    color: black;
+    border: 1px solid cornflowerblue;
+}
+.tabela-produto1 tr th {
+    text-align: center;
+    color: black;
+    border: 1px solid olivedrab;
+}
+
+.tabela-produto1 tr td {
+    text-align: center;
+    color: black;
+    border: 1px solid orange;
+}
