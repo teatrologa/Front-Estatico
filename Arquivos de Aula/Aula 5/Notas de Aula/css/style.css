@@ -1,0 +1,18 @@
+h2 {
+    background-color: aquamarine;
+    color: darkslategray;
+}
+
+.titulo2 {
+    background-color: bisque;
+    color: dimgray;
+}
+
+.titulo3 {
+    background-color: cadetblue;
+    color: antiquewhite;
+}
+
+.texto-centralizado {
+    text-align: center;
+}

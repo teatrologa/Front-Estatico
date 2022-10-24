@@ -1,0 +1,6 @@
+Enunciado
+Crie um site em HTML e CSS (no máximo 2 telas) com o tema Alimentos (restaurante, pizzaria, frutas, mercado... etc).
+
+Sugestão: Um menu de restaurante (com imagens). Um site de padaria.
+
+Deve conter: Um cardapio ou lista de produtos e imagens. Usem a criatividade (Abusem do CSS).
