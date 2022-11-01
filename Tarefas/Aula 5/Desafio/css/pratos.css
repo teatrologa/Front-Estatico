@@ -1,0 +1,57 @@
+main {
+    background-color: bisque;
+}
+
+.parte-01 {
+    height: 680px;
+    padding: 2% 0;
+
+    background-image: url("../imagens/Wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.parte-01 h3 {
+    font-size: 2rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+    font-style: oblique;
+    text-shadow: 1px 1px 2px darkslateblue;
+}
+
+.parte-01 h2 {
+    font-size: 3.3rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+    font-style: oblique;
+    text-shadow: 1px 1px 2px darkslateblue;
+}
+
+.parte-01 nav {
+    display: flex;
+    width: 50%;
+    justify-content: space-around;
+}
+
+.parte-01 button {
+    height: 60px;
+    width: 250px;
+    border-radius: 15px;
+    border: none;
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.parte-02 {
+    height: 40%;
+    background-color: aquamarine;
+}

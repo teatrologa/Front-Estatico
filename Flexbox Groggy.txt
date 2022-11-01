@@ -1,0 +1,45 @@
+justify-content
+flex-start: Items align to the left side of the container.
+flex-end: Items align to the right side of the container.
+center: Items align at the center of the container.
+space-between: Items display with equal spacing between them.
+space-around: Items display with equal spacing around them.
+
+align-items
+flex-start: Items align to the top of the container.
+flex-end: Items align to the bottom of the container.
+center: Items align at the vertical center of the container.
+baseline: Items display at the baseline of the container.
+stretch: Items are stretched to fit the container.
+
+flex-direction
+row: Items are placed the same as the text direction.
+row-reverse: Items are placed opposite to the text direction.
+column: Items are placed top to bottom.
+column-reverse: Items are placed bottom to top.
+
+order: -1 0 1
+
+align-self
+= align-items
+
+flex-wrap
+nowrap: Cada item cabe em uma única linha.
+wrap: os itens são agrupados em linhas adicionais.
+wrap-reverse: os itens se transformam em linhas adicionais no sentido inverso.
+
+flex-flow
+Por exemplo, você pode usar flex-flow: row wrappara definir linhas e envolvê-las.
+
+align-content
+flex-start: As linhas são embaladas na parte superior do contêiner.
+flex-end: As linhas são embaladas na parte inferior do contêiner.
+center: As linhas são embaladas no centro vertical do contêiner.
+space-between: As linhas são exibidas com espaçamento igual entre elas.
+space-around: As linhas são exibidas com espaçamento igual ao redor delas.
+stretch: As linhas são esticadas para caber no contêiner.
+
+
+dica: 
+fixa o header em cima, com 80px e o footer em baixo com 80px
+ai no meio voce  usa height: calc(100vh - 160px);

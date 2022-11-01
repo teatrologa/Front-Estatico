@@ -1,0 +1,14 @@
+Responsividade Login
+Responsividade Comunidade
+
+(tentei) - Formulário Login
+
+
+
+Links footers (+ login)
+- colocar imagem de botão na busca
+
+
+Insight
+Usar grid para ajudar no redimensionamento
+position: stick (algo assim) usado com z-index

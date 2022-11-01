@@ -1,0 +1,57 @@
+/* --- Header --- */
+
+header {
+    padding: 1% 0;
+    width: 100%;
+}
+
+.caixa {
+    display: flex;
+    margin: 0 5%;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.caixa #logo-nome{
+    display: flex;
+    width: 30%;
+    flex-direction: row;
+    height: 100%;
+}
+
+.caixa #logo-nome img {
+    width: 20%;
+}
+
+.caixa #logo-nome h1 {
+    display: flex;
+    align-items: center;
+    margin-left: 3%;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.menu ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    height: 100%;
+}
+
+.menu ul li{
+    margin: auto 10%;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.menu a {
+    color: black;
+    text-decoration: none;
+}
+
+.menu li :hover {
+    color: darkgoldenrod;
+    text-decoration:underline;
+}

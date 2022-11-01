@@ -1,0 +1,3 @@
+colocar divs para cada input
+posso colocar o esquece senha dentro da div do formulário!!!
+input::placeholder (altera DENTRO do input)
